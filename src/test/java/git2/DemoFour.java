@@ -8,6 +8,11 @@ public class DemoFour {
 		System.out.println("Demo FOUR");
 	}
 
+	public static div(int a, int b){
+		int result = a/b;
+		System.out.println(result);
+	}
+	
 }
 
 
